@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '41032'
     url: http://www.gutenberg.org/2009/agents/41032
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41202#The-Two-Great-Republics--Rome-and-the-United-States
 gutenberg_issued: '2012-10-27'
 gutenberg_type: Text
 identifiers:
